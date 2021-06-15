@@ -1,0 +1,17 @@
+#sev {
+    background-color: #ccc;
+    width: 10px;
+    height: 10px;
+}
+
+#sev h2 {
+    display: none;
+}
+
+#sev>p {
+    display: none;
+}
+
+#sev .col-md-4 {
+    display: none;
+}
